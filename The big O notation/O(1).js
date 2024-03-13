@@ -1,7 +1,7 @@
 // O(1)
 
 const log = (arr) => {
-  console.log(arr[0]);
+  console.log(arr[0]); // O(1)
 };
 
 // Here we are consoling the fisrt item of the array no matter how big the array is it
@@ -10,9 +10,10 @@ const log = (arr) => {
 // the run time complexity of the method.
 
 const log2 = (arr) => {
-  console.log(arr[0]);
-  console.log(arr[0]);
+  console.log(arr[0]); // O(1)
+  console.log(arr[0]); // O(1)
 };
+// O(1)
 
 // If we duplicate the console and print the same element again the run time complexity
 // is going to be same as O(1) because when we are checking the run time complexity we dont

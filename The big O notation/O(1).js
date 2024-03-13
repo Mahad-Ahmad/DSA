@@ -19,3 +19,6 @@ const log2 = (arr) => {
 // is going to be same as O(1) because when we are checking the run time complexity we dont
 // really care about the number of operations we just wanna know how much the alogrithm
 // will slow down as input grows larger
+
+// O(1) Graph
+// - - - - - - - - - - - - - - - - - - - - - -

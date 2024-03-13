@@ -48,3 +48,37 @@ const anotherExample = (arr) => {
 // notation all we need is approx. run time complexity of the algorithm not the exact
 // value.
 
+// O(n) Graph
+//                                             -
+//                                         -
+//                                     -
+//                                 -
+//                             -
+//                         -
+//                     -
+//                 - 
+//             -  
+//          -
+//     -
+// -
+
+// O(n ^ 2) Graph
+//                                      -
+//                                     -
+//                                    -
+//                                   -
+//                                 -
+//                               -
+//                             -
+//                           -
+//                         -
+//                     -
+//                 - 
+//             -  
+//          -
+//     -
+// -
+
+
+// Algo that runs on O(n) is faster then O(n ^ 2) as graph shows their run time
+// increases as the size of the input increases.

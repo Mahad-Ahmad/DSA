@@ -33,3 +33,18 @@ const anotherExample = (arr, names) => {
 // ctly proportional to the input so we have to find the complexity and we can 
 // write O(n) instead of O(n + m).
 
+
+
+// O(n) Graph
+//                                             -
+//                                         -
+//                                     -
+//                                 -
+//                             -
+//                         -
+//                     -
+//                 - 
+//             -  
+//          -
+//     -
+// -

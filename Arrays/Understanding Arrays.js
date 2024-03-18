@@ -7,7 +7,7 @@
 // 1=> 100, 2=>104, 3=>108, 4=>112, 5=>116 as an address.
 // For this very reason finding the element using index is very fast.
 
-// But there are some weakness and limitation of arrays, in many languages like Java 
+// But there are some weakness and limitations of arrays, in many languages like Java 
 // and C++ arrays ara static we have to define specify the length of them when alloc-
 // ating and size cant be change later on. If we dont know about the length then we 
 // have to guess the size and if our guess is to large memory is going to be wasted 

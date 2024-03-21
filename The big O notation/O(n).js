@@ -5,6 +5,7 @@ const example = (arr) => {
     console.log(arr[i]);
   }
 };
+
 // Here we have an array and we are iterating over the items and in this example
 // size of the input matters. As if we have a single item in array we are gonna
 // have one print operations and if we have millions items obviously we are gonna

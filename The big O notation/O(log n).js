@@ -6,7 +6,6 @@
 // some point. So Algorithm that runs on Logarithmic time is faster and more sca-
 // lable.
 
-
 // O(n) Graph
 //                                             -
 //                                         -
@@ -30,7 +29,6 @@
 //          -
 //     -
 // -
-
 
 // As we can see Linear curve grows with the same rate and Logarithmic curve 
 // slows down at some point

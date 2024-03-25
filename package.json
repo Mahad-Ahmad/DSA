@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Mahad-Ahmad/DSA/issues"
   },
-  "homepage": "https://github.com/Mahad-Ahmad/DSA#readme"
+  "homepage": "https://github.com/Mahad-Ahmad/DSA#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3"
+  }
 }

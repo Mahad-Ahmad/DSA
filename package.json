@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Mahad-Ahmad/DSA#readme",
   "devDependencies": {
     "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
     "typescript": "^5.4.3"
   }
 }
